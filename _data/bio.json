@@ -2,13 +2,13 @@
   "basics": {
     "name": "Rachel Ouye",
     "label": "HICFA Processing Laboratory Technician/Manager and Computer Science Student",
-    "picture": "",
+    "picture": "https://github.com/rachelouye.png",
     "email": "ro7@hawaii.edu",
     "website": "https://rachelouye.github.io",
     "summary": "I am pursuing a B.S. in Computer Science and my current profession is in the medical field. My work allows me to axhibit laboratory skills and practices as well. I hold a B.S. in Marine Biology in which I hope to utilize in my next career path. I am expected to graduated in the Summer of 2024.",
     
     "profiles": [
-      { "network": "github", "username": "rachouye", "url": "http://github.com/rachouye" },
+      { "network": "github", "username": "rachelouye", "url": "http://github.com/rachelouye.github.io" },
       { "network": "linkedin", "username": "rachelouye", "url": "http://linkedin.com/in/rouye" },
     ]
   },
