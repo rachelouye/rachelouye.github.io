@@ -1,45 +1,49 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Rachel Ouye",
+    "label": "HICFA Processing Laboratory Technician/Manager and Computer Science Student",
+    "picture": "",
+    "email": "ro7@hawaii.edu",
+    "website": "https://rachelouye.github.io",
+    "summary": "I am pursuing a B.S. in Computer Science and my current profession is in the medical field. My work allows me to axhibit laboratory skills and practices as well. I hold a B.S. in Marine Biology in which I hope to utilize in my next career path. I am expected to graduated in the Summer of 2024.",
+    
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "rachouye", "url": "http://github.com/rachouye" },
+      { "network": "linkedin", "username": "rachelouye", "url": "http://linkedin.com/in/rouye" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Health and Fitness" },
+    { "name": "Database Management" },
+    { "name": "Phlebotomy" },
+    { "name": "Video Games" },
+    { "name": "Technology" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "English", "Japanese", "Java" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Microsoft Word, Excel, Powerpoint", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Summer, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-01-12",
       "endDate": "Present",
-      "courses": [
+    
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Marine Biology",
+      "studyType": "B.S.",
+      "startDate": "2014-08-22",
+      "endDate": "2018-08-24",
+    
+      [
       ]
     }
   ],
