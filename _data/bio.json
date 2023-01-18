@@ -49,24 +49,35 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Research Coporation of the University of Hawaii",
+      "position": "Processing Laboratory Technician and Manager",
+      "website": "https://jabsom.hawaii.edu/centers-institutes/hawaii-center-for-aids/",
+      "startDate": "2021-08-24",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Manage and processing specimens in the processing laboratory for the Hawaii Center of AIDS",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Manage processing laboratory operation and processing human specimens",
+        "Coordinate and communicate with research doctors and nurses on research studies"
+      ]
+    },
+     {
+      "company": "Clinical Laboratories of Hawaii",
+      "position": "Laboratory Assistant",
+      "startDate": "2019-06-19",
+      "endDate": "2021-06-22",
+      "summary": "Phlebotomy, fast pace data entry, and specimen processing at Kapiolani Hospital for Women and Children",
+      "highlights": [
+        "Phlebotomy on patients ranging from neonatal to elderly",
+        "Fast pace data entry using company's coding system"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawaii Institute of Marine Biology",
+      "position": "Laboratory Research Assistant",
+      "website": "https://www.himb.hawaii.edu/",
+      "startDate": "2017-07-01",
+      "endDate": "2018-07-31",
+      "summary": "Assist researchers in laboratory experiments on marine bacteria collected around Kaneohe Bay",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
@@ -75,15 +86,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
