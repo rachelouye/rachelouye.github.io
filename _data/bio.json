@@ -13,11 +13,11 @@
     ]
   },
   "interests": [
-    { "name": "Health and Fitness" },
     { "name": "Database Management" },
-    { "name": "Phlebotomy" },
+    { "name": "Technology" },
+    { "name": "Healthcare" },
     { "name": "Video Games" },
-    { "name": "Technology" }
+    { "name": "Research" }
   ],
   "skills": [
     {
