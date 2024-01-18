@@ -1,68 +1,83 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Rachel Ouye",
+    "label": "HICFA Processing Laboratory Technician/Manager and Computer Science Student",
+    "picture": "https://github.com/rachelouye.png",
+    "email": "ro7@hawaii.edu",
+    "website": "https://rachelouye.github.io",
+    "summary": "I am pursuing a B.S. in Computer Science and expected to graduated in the Summer of 2024. My current profession is in the medical field where my work allows me to exhibit laboratory skills and practices. I hold a B.S. in Marine Biology in which I gained research experience and hope to utilize in my next career path."
+,   
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "rachelouye", "url": "rachelouye.github.io" },
+      { "network": "linkedin", "username": "rachelouye", "url": "http://linkedin.com/in/rouye" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Database Management" },
+    { "name": "Technology" },
+    { "name": "Healthcare" },
+    { "name": "Video Games" },
+    { "name": "Research" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "English", "Japanese", "Java" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Microsoft Word, Excel, Powerpoint", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Summer, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-01-12",
       "endDate": "Present",
-      "courses": [
+    
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Marine Biology",
+      "studyType": "B.S.",
+      "startDate": "2014-08-22",
+      "endDate": "2018-08-24",
+    
+      [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Research Coporation of the University of Hawaii",
+      "position": "Processing Laboratory Technician and Manager",
+      "website": "https://jabsom.hawaii.edu/centers-institutes/hawaii-center-for-aids/",
+      "startDate": "2021-08-24",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Manage and processing specimens in the processing laboratory for the Hawaii Center of AIDS",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Manage processing laboratory operation and processing human specimens",
+        "Coordinate and communicate with research doctors and nurses on research studies"
+      ]
+    },
+     {
+      "company": "Clinical Laboratories of Hawaii",
+      "position": "Laboratory Assistant",
+      "startDate": "2019-06-19",
+      "endDate": "2021-06-22",
+      "summary": "Phlebotomy, fast pace data entry, and specimen processing at Kapiolani Hospital for Women and Children",
+      "highlights": [
+        "Phlebotomy on patients ranging from neonatal to elderly",
+        "Fast pace data entry using company's coding system"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawaii Institute of Marine Biology",
+      "position": "Laboratory Research Assistant",
+      "website": "https://www.himb.hawaii.edu/",
+      "startDate": "2017-07-01",
+      "endDate": "2018-07-31",
+      "summary": "Assist researchers in laboratory experiments on marine bacteria collected around Kaneohe Bay",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
@@ -71,15 +86,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
