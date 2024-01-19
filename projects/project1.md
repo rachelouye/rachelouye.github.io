@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: "https://blogs.nasa.gov/earthexpeditions/wp-content/uploads/sites/257/2016/06/kaneohe-Bay-Aerial-3.jpg"
-title: "Fluorescent *in situ* Hybridization"
-date: 2024
+title: "Fluorescent \*in situ* Hybridization"
+date: 2018
 published: true
 labels:
   - GitHub
-summary: "Fluorescent *in situ* Hybridization of SAR11 from Kaneohe Bay"
+summary: "Fluorescent \*in situ* Hybridization of SAR11 from Kaneohe Bay"
 ---
 
   During my undergraduate years in Marine Biology, my interests involved research in Marine Microbiology. In the Summer of 2018, I took on a project for the Rappé Lab located at the Hawaii Institute of Marine Biology in Kaneohe Bay. With this I gained experience in sampling methods, DNA extraction, flow cytometry, and fluorescent in situ hybridization (FISH). 
