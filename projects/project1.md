@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: "https://blogs.nasa.gov/earthexpeditions/wp-content/uploads/sites/257/2016/06/kaneohe-Bay-Aerial-3.jpg"
+image: ![image](https://github.com/rachelouye/rachelouye.github.io/assets/105040553/30161d48-4579-4b52-bb19-fd41a8233360)
+
 title: "Fluorescent in situ Hybridization"
 date: 2018
 published: true
