@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="200px" src="../img/Screenshot_20240123-192716.png" class="img-thumbnail" >
+image: img/Screenshot_20240123-192716.png
 
 title: "Fluorescent in situ Hybridization"
 date: 2018
