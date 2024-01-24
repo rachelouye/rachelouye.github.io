@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot_20240123-192810.png
+image: img/recoverr.png
 
 title: "RECOVER"
 date: 2021
