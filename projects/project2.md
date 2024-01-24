@@ -13,5 +13,10 @@ labels:
 summary: "Japanese Fencing"
 ---
 
-<img src="img/Screenshot_20240123-193256~2.png">
+<div class="text-center p-4">
+  <img width="200px" src="img/Screenshot_20240123-193229~2.png" class="img-thumbnail" >
+</div>
 
+<div class="text-center p-4">
+  <img width="200px" src="img/Screenshot_20240123-193256~2.png" class="img-thumbnail" >
+</div>
