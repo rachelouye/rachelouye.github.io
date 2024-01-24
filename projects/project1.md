@@ -19,6 +19,6 @@ In efforts to cultivate SAR11 from Kaneohe bay, the objective of this project wa
 
   However, due to time constraint and multiple instances of trial and error, the hypothesis that SAR11 cells could be enriched for through size fractionation could not be supported. Cell counts were not generated through FISH as expected. Each step in this project needed to be considered and evaluated, due to multiple factors affecting outcomes. In the path moving forward, pieces from this project would be applied to an even bigger project. This involves evaluating steps and using growing culture with confirmed presence of SAR11.
 
-<img width="200px" src="img/microbe.png" class="img-thumbnail" >
+<img width="200px" src="/img/microbe.png" class="img-thumbnail" >
 
   Prior to this project the Rappé Lab at the Hawai’i Institute of Marine Biology had no protocol to perform FISH, as a protocol needed to be generated to accommodate for the lab’s working conditions. Being able to properly see Cy3 probe stained cells was hindered with speculation on a weak fluorescent microscope. Due to their lack of fluorescence, a stronger illuminator for the microscope would have been a possible fix. Despite the errors in molecular technique and technological malfunction, all of the steps of trial and error would help future efforts on performing FISH and cultivation of SAR11. The Rappé lab is now able to perform FISH readily through the newly generated protocol, and further study the ecological role of SAR11. 
