@@ -10,7 +10,7 @@ labels:
   - Sports
   - Martial Arts
 
-summary: "Japanese Fencing: Kendo."
+summary: "Japanese Fencing"
 ---
 
 <img width="200px" src="..img/Screenshot_20240123-193229~2.png" class="img-thumbnail">
