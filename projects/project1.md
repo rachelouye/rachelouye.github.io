@@ -7,7 +7,9 @@ title: "Fluorescent in situ Hybridization"
 date: 2018
 published: true
 labels:
-  - GitHub
+  - Marine Biology
+  - Marine Microbiology
+  - Research
 summary: "Fluorescent in situ Hybridization of SAR11 from Kaneohe Bay"
 ---
  <img width="200px" src="../img/Screenshot_20240123-192716.png" class="img-thumbnail" >
