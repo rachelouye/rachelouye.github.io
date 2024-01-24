@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot_20240123-192716.png
+image: img/Screenshot_20240123-192716-square.png
 
 title: "Fluorescent in situ Hybridization"
 date: 2018
