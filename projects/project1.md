@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![image](https://github.com/rachelouye/rachelouye.github.io/assets/105040553/30161d48-4579-4b52-bb19-fd41a8233360)
+image: img/Screenshot_20240123-192716.png
 
 title: "Fluorescent in situ Hybridization"
 date: 2018
