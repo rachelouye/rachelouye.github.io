@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/img/kendo-square.png
+image: img/kendo-square.png
 title: "Kendo"
 date: 2022
 published: true
@@ -13,5 +13,5 @@ labels:
 summary: "Japanese Fencing: Kendo."
 ---
 
-<img class="img-fluid" src="img/Screenshot_20240123-193229~2.png">
+<img width="200px" src="..img/Screenshot_20240123-193229~2.png">
 
