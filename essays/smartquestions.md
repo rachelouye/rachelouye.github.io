@@ -24,7 +24,7 @@ I can argue and say that is a question that some people would want to ask. Now o
 
 ## What to ask
 
-When thinking about a smarter question, specifically asking a question regarding the topic would actually be more helpful.  A smarter question would be something like “What specific techniques can be used to define a class in JavaScript?”. The results would give something like [this]([https://stackoverflow.com/search?q=how+do+you+create+an+OOP+class+in+javascript](https://stackoverflow.com/questions/387707/what-techniques-can-be-used-to-define-a-class-in-javascript-and-what-are-their).
+When thinking about a smarter question, specifically asking a question regarding the topic would actually be more helpful.  A smarter question would be something like “What specific techniques can be used to define a class in JavaScript?”. The results would give something like [this](https://stackoverflow.com/questions/387707/what-techniques-can-be-used-to-define-a-class-in-javascript-and-what-are-their).
 
 As we can see from the results, they are definitely not as general, and give specific results as to how to code for a class in JavaScript. The person who asked the question in that example gave specifics as to what they were looking for an answer regarding, and the results were very helpful. You can also tell by the amount of upvoates on both the questions and 
 
