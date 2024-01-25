@@ -11,7 +11,7 @@ labels:
 
 ## Asking the "right" questions
 
-Growing up I was always told there is no such thing as a not smart question. I was also always told that it’s better to ask questions than to not know at all. However, I was the type of person who grew up not asking questions because I was too shy, but I also did not want to sound unintelligent. Now, I have a completely different view on what is a question worthy of me asking.
+Growing up I was always told there is no such thing as a not smart question. I was also always told that it’s better to ask questions then to not know at all. However, I was the type of person who grew up not asking questions because I was too shy, but I also did not want to sound unintelligent. Now, I have a completely different view on what is a question worthy of me asking.
 
 ## What not to ask
 When thinking about a not smart question, I think of the most general form of what one would want an answer to. For example, if you are trying to ask a question regarding JavaScript, a question could be “How do you code in JavaScript?”.  
