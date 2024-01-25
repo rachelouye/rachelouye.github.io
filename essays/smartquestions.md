@@ -16,7 +16,7 @@ Growing up I was always told there is no such thing as a not smart question. I w
 ## What not to ask
 When thinking about a not smart question, I think of the most general form of what one would want an answer to. For example, if you are trying to ask a question regarding JavaScript, a question could be “How do you code in JavaScript?”.  
 
-Here is an example of what shows up when you ask stack overflow this question [here](https://stackoverflow.com/search?q=how+to+code+in+javascript&s=a686516c-2f51-46a0-b373-3359ae245d90)
+Here is an example of what shows up when you ask stack overflow this question [here](https://stackoverflow.com/search?q=how+to+code+in+javascript&s=a686516c-2f51-46a0-b373-3359ae245d90).
 
 When looking at a question specifically in the stack overflow that might not seem as smart would be something like [this](https://stackoverflow.com/questions/13213928/how-to-make-a-class-in-javascript).
 
@@ -24,7 +24,7 @@ Now one who actually knows how to code in JavaScript may say that “everyone kn
 
 ## What to ask
 
-As you can see, there is no straight answer to the question that was asked. Instead, a smart question would be something like “How do you create an OOP class in javascript?”. The results would give something like [this](https://stackoverflow.com/search?q=how+do+you+create+an+OOP+class+in+javascript)
+As you can see, there is no straight answer to the question that was asked. Instead, a smart question would be something like “How do you create an OOP class in javascript?”. The results would give something like [this](https://stackoverflow.com/search?q=how+do+you+create+an+OOP+class+in+javascript).
 
 As we can see from the results, they are definitely not as general, and give specific results as to how to code for an OOP class in JavaScript. 
 
