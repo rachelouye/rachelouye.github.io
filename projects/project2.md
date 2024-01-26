@@ -18,6 +18,8 @@ During the years of my first grade through nineth grade, I took on the Japanese 
 
 ## Challenges
 
+While Kendo was not exactly a project, it was definitely a sport that motivated me to want to do better in everything I do. Intially, I started in a low rank, and that is when my Sensei wanted me to move up in rank. The ranks are given by the tests that are taken. These tests consists of sparring, kata, and a written test. The biggest challenege I faced was being comfortable performing infront of an audience while also being able to do the techniques correctly. Kendo consisted of hours of practice, in which I was able to participate in a tournament as well. This tournament really challenged me mentally, because I was going against people who are high rank and have been doing kendo since they were younger. 
+
 <div class="text-center p-4">
   <img width="1000px" src="/img/Screenshot_20240123-193229~2.png" class="img-thumbnail" >
 </div>
@@ -26,4 +28,6 @@ During the years of my first grade through nineth grade, I took on the Japanese 
   <img width="1000px" src="/img/Screenshot_20240123-193256~2.png" class="img-thumbnail" >
 </div>
 
-## Outcome
+## In the end
+
+Eventually I was able to work my way up to 1-dan which is almost equivallent to a black belt in other martial arts. This was decication that took out time of my weekened, when I do parttake in a very busy lifestyle. While I was not able to further in becoming better at sparring and participating in tournaments, due to a severe injury, I was able to find something that motivated me for once in my life. 
