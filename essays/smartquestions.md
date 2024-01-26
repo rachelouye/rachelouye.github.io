@@ -9,23 +9,48 @@ labels:
   - Stack Overflow
 ---
 
-## Asking the "right" questions
+Growing up, I was often advised that there are no unintelligent questions, and it's better to seek understanding through questions. However, my shyness sometimes held me back from asking questions, fearing that I might sound unintelligent. Over time, my perspective on what constitutes a worthwhile question has evolved, emphasizing the importance of asking questions that lead to meaningful insights.
 
-Growing up I was always told there is no such thing as a not smart question. I was also always told that it’s better to ask questions then to not know at all. However, I was the type of person who grew up not asking questions because I was too shy, but I also did not want to sound unintelligent. Now, I have a completely different view on what is a question worthy of me asking.
-
-## What not to ask
-When thinking about a not smart question, I think of the most general form of what one would want an answer to. For example, if you are trying to ask a question regarding JavaScript, a question could be “How do you code in JavaScript?”.  
-
+## What Not to Ask
+When considering an unintelligent question, there is a fine line of it being too general, especially for broad topics. For instance, a question like "How do you code in JavaScript?" lacks specificity and may be perceived as not smart. 
 This is an example of what shows up when you ask stack overflow this question [here](https://stackoverflow.com/search?q=how+to+code+in+javascript&s=a686516c-2f51-46a0-b373-3359ae245d90).
+
+<div class="text-center p-4">
+  <img width="500px" src="/img/smart-questions/notsmart.png" class="img-thumbnail" >
+</div>
+
 
 When looking at a question specifically in the stack overflow that might not seem as smart would be something like [this](https://stackoverflow.com/questions/13213928/how-to-make-a-class-in-javascript).
 
-I can argue and say that is a question that some people would want to ask. Now one who actually knows how to code in JavaScript may say that “everyone knows how to make a class in JavaScript”, which would deem this question a not so smart question. However, looking at the response that was given it definitely does seem complicated, especially for someone who does not understand what classes are in JavaScript. Now this is where a smarter question would have to come into play, which would be geared more towards understanding and knowing what a smarter question would be regarding classes in JavaScript. 
 
-## What to ask
 
-When thinking about a smarter question, specifically asking a question regarding the topic would actually be more helpful.  A smarter question would be something like “What specific techniques can be used to define a class in JavaScript?”. The results would give something like [this](https://stackoverflow.com/questions/387707/what-techniques-can-be-used-to-define-a-class-in-javascript-and-what-are-their).
+The mentioned question, while seemingly straightforward, might be viewed as basic by those with JavaScript proficiency. However, the response received is complex, indicating the question's potential ambiguity. To improve, a smarter question should focus on specific aspects, like "What techniques define a class in JavaScript?" to yield more insightful results.
 
-As we can see from the results, they are definitely not as general, and give specific results as to how to code for a class in JavaScript. The person who asked the question in that example gave specifics as to what they were looking for an answer regarding, and the results were very helpful. You can also tell by the amount of upvoates on both the questions and 
+## What to Ask
+A smarter question is one that delves into the specifics of a topic, providing clarity for both the asker and potential responders. Instead of a generic inquiry, a smarter question related to JavaScript might be "What specific techniques can be used to define a class in JavaScript?". 
+
+The results would give something like [this](https://stackoverflow.com/questions/387707/what-techniques-can-be-used-to-define-a-class-in-javascript-and-what-are-their).
+
+
+<div class="text-center p-4">
+  <img width="500px" src="/img/smart-questions/smart.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="500px" src="/img/smart-questions/smart2.png" class="img-thumbnail" >
+</div>
+
+
+The results from the smarter question are noticeably more tailored and informative. The asker's clear articulation of their query, along with the specifics about defining a class, garners more upvotes and demonstrates a higher level of engagement from the community.
+
+## Outcome
+Analyzing the two types of questions and their respective responses on Stack Overflow offers valuable insights. Smart questions are not only about seeking answers but also about framing inquiries in a way that promotes meaningful dialogue and efficient knowledge transfer.
+
+Asking smart questions involves providing context, being specific about the problem, and tailoring inquiries to the intended audience. While there may not be universally unintelligent questions, there are undoubtedly more effective and efficient ways to seek information. This exercise has reinforced the idea that the art of asking smart questions is a skill that can be honed, leading to a more enriching experience for both the asker and the community at large.
+
+
+
+
+
 
 
