@@ -32,18 +32,18 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Summer, 2024)",
+      "area": "Computer Science (expected Fall 2024)",
       "studyType": "B.S.",
       "startDate": "2022-01-12",
       "endDate": "Present",
-    
+     ]
+    }, 
+      {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Marine Biology",
       "studyType": "B.S.",
       "startDate": "2014-08-22",
       "endDate": "2018-08-24",
-    
-      [
       ]
     }
   ],
