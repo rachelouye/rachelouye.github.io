@@ -21,6 +21,10 @@ In the future, I aspire to pursue careers in areas such as IT or web development
 
 To accomplish these goals, I look forward to gaining hands-on experience through internships, collaborative projects, and real-world applications. This involves working on projects that address problems relative to software engineering and will provide me with the opportunity to apply my knowledge to practical scenarios. Additionally, I have been interested in participating in cyber defense competitions and collaborative coding initiatives to cater to improving my collaborative skills. These experiences will not only enhance my technical skills but also expose me to diverse perspectives and approaches in software engineering.
 
+<div class="text-center p-4">
+  <img width="500px" src="/img/confused 2.png" class="img-thumbnail" >
+</div>
+
 ## How it ends
 
 My journey in software engineering has just started and is fueled by a passion for innovation and a commitment to mastering technological advancements. I am excited to continue exploring the areas of this field, from networking to full-stack development, and to contribute meaningfully to the advancement of technology. Through hands-on experiences and collaborative endeavors, I aim to improve my skills and obtain a mindset that accepts challenges as opportunities for growth in software engineering.
