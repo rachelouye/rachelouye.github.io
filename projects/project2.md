@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kendo.png
+image: img/kendo-Square.png
 title: "Kendo"
 date: 2022
 published: true
