@@ -22,7 +22,7 @@ summary: "Researching COVID to Enhance Recovery"
 The RECOVER project aimed to advance our understanding of COVID-19 and its impact on recovery, with a specific focus on the local context within Hawaiʻi. As part of the Hawaiʻi Center for AIDS at the John A. Burns School of Medicine, the project involved collaboration with professionals from the Mayo Clinic. The primary objective was to establish a local biospecimen processing site in Hawaiʻi, contributing valuable data to the broader research initiative. The project's overarching goal was to enhance recovery strategies and outcomes for individuals affected by COVID-19.
 
 
-## What did I do
+## Role
 
 In this project, my role was pivotal in setting up the Hawaiʻi site for biospecimen processing. Leveraging my knowledge of current specimen processing techniques, I played a crucial role in integrating these techniques into the research goals of the RECOVER project. Responsibilities included implementing multiple changes in processing procedures to ensure they aligned with the project's objectives. As a key member of the team, I was accountable for the efficient execution of these changes within a timely framework.
 
