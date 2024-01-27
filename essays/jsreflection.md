@@ -6,6 +6,7 @@ date: 2024-01-17
 published: true
 labels:
   - Computer Science
+  - JavaScript
 ---
 
 ## JavaScript as the foreign language
