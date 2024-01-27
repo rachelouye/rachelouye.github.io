@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Endeavors in Software Engineering"
-date: 2024-01-15
+date: 2024-01-25
 published: true
 labels:
   - Computer Science
