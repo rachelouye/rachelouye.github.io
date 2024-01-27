@@ -10,12 +10,18 @@ labels:
 
 ## JavaScript as the foreign language
 
-JavaScript is like learning a foreign language, which is most definitely mastered upon many hours of practice. Not one person can learn a language overnight, and this is a concept I may relate to growing up learning Japanese. The way in which I learned Japanese was that my mother would speak to me in Japanese, and I would have to catch onto what she was saying. In a sense, JavaScript is learned in a similar manner where we are given a task, and we must respond with the proper outline of code. Previously, I had struggled learning the language in which there was not much time committed into understanding and learning the language. This time around, the goal is to be able to implement the language in simple scenarios. 
+Learning JavaScript is similar to mastering a foreign language, a skill mastered through countless hours of practice. Just as one cannot become fluent in a language overnight, this resonates with my experience growing up learning Japanese. In my childhood, my mother would converse with me in Japanese, and I had to gradually grasp the meaning of her words. Similarly, JavaScript is acquired through a comparable process where tasks are assigned, and one must respond with the appropriate code structure. Unlike my previous struggles with learning the language due to insufficient time commitment, this time, the aim is to implement JavaScript in simple scenarios, emphasizing practical application.
 
 ## Experience with JavaScript
 
-I personally am very much new to JavaScript, let alone coding. My prior experience would only be with Java and C, which required much more attention to detail in lines of code. There were also the steps of having to compile your code, whereas JavaScript does not require that step. JavaScript tends to be geared towards programming for software engineering in a positive way, because the user may manipulate it to be for web development. Which in turn, deems it a handy and very powerful tool for software engineering.
+Being relatively new to JavaScript and coding in general, my prior experience lies mainly with Java and C, both requiring meticulous attention to detail in lines of code. These languages also involve the additional step of compiling code, a process not required in JavaScript. The unique attribute of JavaScript being geared towards software engineering, particularly in web development, makes it a versatile and powerful tool in the realm of programming. However, the sturtcure is very similar to that of other coding languages, such as Java and C. 
 
 ## Get good
 
-Now one may ask: *In what specific ways would one be successful at learning and practicing JavaScript? It’s not like we have a partner to practice speaking the language to.* That’s where athletic software engineering comes into play. Personally, I love exercising and being physically active so I find this concept to be extremely exciting. Not only does it train my programming skills (which I very much so lack), but also trains me to think fast. The time crunch is definitely stressful since my current knowledge is minimal, but will be a marathon worth training for. 
+Now, one might question: How can one successfully learn and practice JavaScript without a language partner for conversation practice? This is where the concept of "athletic software engineering" comes into play. As someone who enjoys exercising and being physically active, I find this approach appealing. It not only enhances my programming skills, which I admit are currently lacking, but also trains me to think quickly. The inherent time pressure is undeniably stressful given my limited knowledge, but it promises to be a marathon worth preparing for.
+
+
+
+
+
+
