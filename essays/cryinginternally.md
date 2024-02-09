@@ -8,7 +8,7 @@ labels:
   - Computer Science
   - Software Engineering
   - Coding Standards
-  -IntelliJ
+  - IntelliJ
   - ESLint
 ---
 
