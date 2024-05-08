@@ -46,11 +46,12 @@ From this I clearly understood that even if you think that ChatGpt might give yo
 
 Question: Please change this code so that the button component links to a url in react js : 
 
-<code>import React from 'react';
+ import React from 'react';
 import { Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { PageIDs } from '../utilities/ids';
 
+---
 /* A simple static component to render some text for the landing page. */
 const Landing = () => (
   <div id={PageIDs.landingPage}>
@@ -70,9 +71,11 @@ const Landing = () => (
 );
 
 export default Landing;
+---
 
 Output: 
 
+---
 import React from 'react';
 import { Container, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
@@ -96,7 +99,8 @@ const Landing = () => (
   </div>
 );
 
-export default Landing;<code>
+export default Landing; 
+---
 
 Which I was able to produce a link within a button component which I was able to manipulate later for design and proper usage. 
 
