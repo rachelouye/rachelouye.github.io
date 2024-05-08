@@ -30,8 +30,13 @@ Incorrect output answer that gave me an incorrect answer for what the WOD should
   <img width="500px" src="/img/Example2.png" class="img-thumbnail" >
 </div>
 
-Question: please give me a javascript code that numEvenNums(). This function takes an array of numbers, and returns a number indicating the number of even numbers (i.e. divisible by two) in the original list of numbers
+Whereas where you can enhance the Question and contents regarding the question to produce a better and correct outcome: please give me a javascript code that numEvenNums(). This function takes an array of numbers, and returns a number indicating the number of even numbers (i.e. divisible by two) in the original list of numbers
 Output: 
+
+<div class="text-center p-4">
+  <img width="500px" src="/img/Example3.png" class="img-thumbnail" >
+</div>
+
 From this I clearly understood that even if you think that ChatGpt might give you the "right" answers, it actually depends on how you word the question. It is also your responsibility to be able to check the code gives the proper output, that's where having the right knowledge and understanding the concepts is key. This clearly emphasizes that AI usage is simply a tool. 
 
   4. Essays: ChatGpt was not used for essays as I have prior experience with writing essays for research and english classes. 
