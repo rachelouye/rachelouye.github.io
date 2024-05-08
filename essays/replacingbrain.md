@@ -45,13 +45,12 @@ From this I clearly understood that even if you think that ChatGpt might give yo
   5. Final project: I have only used AI for this matter for a snippet of code for design purposes in the landing page button design. I was not exactly sure how to implement a link into a button, even after reading some forums. Here is an example: 
 
 Question: Please change this code so that the button component links to a url in react js : 
-
+```
  import React from 'react';
 import { Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { PageIDs } from '../utilities/ids';
 
----
 /* A simple static component to render some text for the landing page. */
 const Landing = () => (
   <div id={PageIDs.landingPage}>
@@ -71,11 +70,11 @@ const Landing = () => (
 );
 
 export default Landing;
----
+```
 
 Output: 
 
----
+```
 import React from 'react';
 import { Container, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
@@ -100,7 +99,7 @@ const Landing = () => (
 );
 
 export default Landing; 
----
+```
 
 Which I was able to produce a link within a button component which I was able to manipulate later for design and proper usage. 
 
