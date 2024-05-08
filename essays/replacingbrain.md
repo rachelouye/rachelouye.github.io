@@ -21,9 +21,14 @@ I have used AI in class this semester in the following areas:
   2. In-class Practice WODs: I actually never participated in the in-class practice WODs because the times were during the time I work.
 
   3. In-class WODs: I used ChatGpt for a few of the WODs, however I was very hesistant to use it for coding as it generally would not do the work for you, and I had no prior experience with it. I may be old school for being hesitant on a tool that was not allowed for me in prior classes. However, here is an example of my usage:
+     
 Incorrect usage where I just copy pasted the prompt of the WOD: please give me a javascript code that Problem 3: Write a function called fib() that returns an array containing the first 50 Fibonacci numbers. By definition, the first two numbers in the Fibonacci sequence are 0 and 1, and each subsequent number is the sum of the previous two. As an example, here are the first 10 Fibonacci numbers: 0, 1, 1, 2, 3, 5, 8, 13, 21, and 34. (To construct this list, just use a FOR loop; underscore does not make your life easier here.)
 
 Incorrect output answer that gave me an incorrect answer for what the WOD should have produced: 
+
+<div class="text-center p-4">
+  <img width="500px" src="/img/Example2.png" class="img-thumbnail" >
+</div>
 
 Question: please give me a javascript code that numEvenNums(). This function takes an array of numbers, and returns a number indicating the number of even numbers (i.e. divisible by two) in the original list of numbers
 Output: 
@@ -84,4 +89,8 @@ Which was very helpful in the end as I was not too sure what was wrong with my c
   14. Other uses in ICS 314 not listed above: Most of my experiences using AI for this course was for checking for code errors and experiencing understanding how to use the tools. I have no other uses for AI in this course besides what was listed above. 
 
 
-### III. Impact on Learning and Understanding: I don't think usage of AI has actually impacted my learning and understanding of any of the concepts covered throughout this semester. If anything, ICS 314 has actually allowed me an opportunity to be able to learn how to use AI tools such as ChatGpt. This is due to my past experiences of not having tools as such, which I am definitely still not accustomed to. 
+### III. Impact on Learning and Understanding
+
+I don't think usage of AI has actually impacted my learning and understanding of any of the concepts covered throughout this semester. If anything, ICS 314 has actually allowed me an opportunity to be able to learn how to use AI tools such as ChatGpt. This is due to my past experiences of not having tools as such, which I am definitely still not accustomed to. 
+
+
