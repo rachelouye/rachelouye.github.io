@@ -100,3 +100,29 @@ Which was very helpful in the end as I was not too sure what was wrong with my c
 I don't think usage of AI has actually impacted my learning and understanding of any of the concepts covered throughout this semester. If anything, ICS 314 has actually allowed me an opportunity to be able to learn how to use AI tools such as ChatGpt. This is due to my past experiences of not having tools as such, which I am definitely still not accustomed to. 
 
 
+### IV. Practical Applications:
+
+I can see the practical applications in terms of AI usage in which it would help enhance in the ways we would like to approach an issue or topic. This could include in projects for future classes, and is definitely great for checking errors that maybe human error would not be able to catch. 
+
+
+### V. Challenges and Opportunities:
+
+The challenges and limitations that have been presented with AI usage throughout this semester has been replacing my brain. Yes, replacing my brain, as I realized AI is simply a tool and not meant to replace one's ability to think. Other than that, the only challenge was learning how to use the tool. 
+
+
+### VI. Comparative Analysis:
+
+Personally, I admire AI as it does help people to think beyond what they can think. I personally like to talk out loud or think through about my approaches for a greater outcome. As traditional teaching methods are appreciated, I do not think that AI should replace these traditional methods. One's ability to retain knowledge and think on their own is a gift in itself. The beauty of knowledge is also being able to teach someone else the knowledge that you gained. This solidifies that one actually knows the material to their best of their knowledge. 
+
+
+### VII. Future Considerations: 
+
+I believe that AI has great potential in the future and it's usage with Software Engineering. As my experience taking ICS 314 has been enhanced through learning how to use AI as a tool, and not replace knowledge, I can agree it has great potential to enhance Software Engineering overall. 
+
+
+### VIII. Conclusion: 
+
+I highly encourage the useage of AI in future courses as a tool but not as a means to do the work for someone. My recommendation would be to emphasize further and possibly explain to future users of AI that it should not replace knowledge, but rather be used to enhance to build and create better outcomes. 
+
+
+
