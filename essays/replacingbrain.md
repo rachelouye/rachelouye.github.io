@@ -30,7 +30,8 @@ Incorrect output answer that gave me an incorrect answer for what the WOD should
   <img width="500px" src="/img/Example2.png" class="img-thumbnail" >
 </div>
 
-Whereas you can enhance the question and contents regarding the topic to manipulate the outcome you want: please give me a javascript code that numEvenNums(). This function takes an array of numbers, and returns a number indicating the number of even numbers (i.e. divisible by two) in the original list of numbers
+Whereas you can enhance the question and contents regarding the topic to manipulate the outcome you want: please give me a javascript code that numEvenNums(). This function takes an array of numbers, and returns a number indicating the number of even numbers (i.e. divisible by two) in the original list of numbers.
+
 Output: 
 
 <div class="text-center p-4">
