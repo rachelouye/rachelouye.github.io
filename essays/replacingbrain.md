@@ -153,6 +153,8 @@ In which I was given an altered code with the following comments as to why chang
 </div>
 
 Which was very helpful in the end as I was not too sure what was wrong with my code
+
+
   14. Other uses in ICS 314 not listed above: Most of my experiences using AI for this course was for checking for code errors and experiencing understanding how to use the tools. I have no other uses for AI in this course besides what was listed above. 
 
 
