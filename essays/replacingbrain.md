@@ -119,7 +119,9 @@ Which I was able to produce a link within a button component which I was able to
 
   13. Quality assurance: AI was used for quality assurance purposes to check if code written was working and producing the proper output. For example there was an instance in which my code was not working and this is what I had asked: 
 
-Please check this code for any errors: import { Meteor } from 'meteor/meteor';
+Please check this code for any errors: 
+```
+import { Meteor } from 'meteor/meteor';
 import { TasksCollection } from '/imports/api/TasksCollection';
 
 const insertTask = taskText => TasksCollection.insert({ text: taskText });
@@ -137,6 +139,7 @@ Meteor.startup(() => {
     ].forEach(insertTask)
   }
 });
+```
 
 In this instance, I was given this feedback: 
 
