@@ -117,7 +117,7 @@ Which I was able to produce a link within a button component which I was able to
 
   12.Documenting code: I have no used AI in this application as all of the material regardnig coding was covered in class. 
 
-  113.Quality assurance: AI was used for quality assurance purposes to check if code written was working and producing the proper output. For example there was an instance in which my code was not working and this is what I had asked: 
+  13.Quality assurance: AI was used for quality assurance purposes to check if code written was working and producing the proper output. For example there was an instance in which my code was not working and this is what I had asked: 
 
 Please check this code for any errors: 
 ```
