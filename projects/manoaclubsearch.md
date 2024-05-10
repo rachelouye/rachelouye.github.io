@@ -26,7 +26,7 @@ You can view more information about the website here: [https://clubsearch-manoa.
   <img width="500px" src="/img/browseclub.png" class="img-thumbnail" >
 </div>
 
-## What Went Into It?
+## Components
 The website allows users to search and browse clubs, marking those that pique their interests as favorites. Users can also access contact information, descriptions, and meeting times of the clubs, helping them pursue social opportunities by joining meetings if they wish. Additionally, there are club administrators who can edit existing clubs, and super administrators who have the ability to add and delete clubs.
 
 <div class="text-center p-4">
