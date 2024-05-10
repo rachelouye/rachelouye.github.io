@@ -32,3 +32,7 @@ The website allows users to search and browse clubs, marking those that pique th
 <div class="text-center p-4">
   <img width="500px" src="/img/edit.png" class="img-thumbnail" >
 </div>
+
+## Irony
+
+The irony of this entire project was that I had to be social with my group mates and needed to be sociable to form the group in the first place. Collaborating with the group was definitely my favorite part, especially using React.js and GitHub as tools to develop the website. For my contribution, I focused mainly on the design components. This involved ensuring that the layout was uniform across all pages and aesthetically pleasing. Personally, I prefer a simple webpage design that is easy to navigate yet still looks organized. Our group seems to have executed this very well.
