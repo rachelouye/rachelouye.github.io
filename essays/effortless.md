@@ -16,11 +16,11 @@ labels:
 
 ## Making the Effort
 
-Our web application project, "Club Search Manoa," provided insight into the amount of effort required to complete the project, encompassing both coding and non-coding activities. Initially, my effort estimates covered these activities as a whole, but as the project progressed, I began to specifically track the hours spent researching and understanding code separately from the hours spent actively coding.
+Our web application project, "Club Search Manoa," provided insight into the amount of effort required to complete the project, involving both coding and non-coding activities. Initially, my effort estimates covered these activities as a whole, but as the project progressed, I began to specifically track the hours spent researching and understanding code separately from the hours spent actively coding.
 
 ## Worth It Or Not?
 
-Despite our estimates often being inaccurate, there were significant benefits to making these effort estimates in advance. In the context of Agile project management, effort estimates helped set realistic expectations for the completion of tasks and facilitated timely goal achievement. These estimates were particularly useful during Agile sprints, allowing us to gauge the workload distribution among team members and identify those who were contributing most effectively. Tracking effort also proved beneficial regardless of individual skillsets, as it provided tangible evidence of each team member's contribution.
+Despite our estimates often being inaccurate, there were significant benefits to making these effort estimates in advance. In the context of Agile Project Management, effort estimates helped set realistic expectations for the completion of tasks and facilitated timely goal achievement. These estimates were particularly useful during Agile sprints, allowing us to gauge the workload distribution among team members and identify those who were contributing most effectively. Tracking effort also proved beneficial regardless of individual skillsets, as it provided tangible evidence of each team member's contribution.
 
 ## The Accuracy
 
