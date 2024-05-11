@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Noticing The Pattern"
 date: 2024-04-25
-published: true
+published: false
 labels:
   - Computer Science
   - Software Engineering
